@@ -26,7 +26,10 @@ Update your package.json
   "tauri": "tauri" //Add This
 }
 ```
-
+Run tauri
+```
+$npm run tauri dev
+```
 ### Reference
 
 [Tauri Rust from Frontend](https://tauri.app/v1/guides/features/command)
