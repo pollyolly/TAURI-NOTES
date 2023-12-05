@@ -27,7 +27,7 @@ Update your package.json
 }
 ```
 Run tauri
-```
+```vim
 $npm run tauri dev
 ```
 ### Reference
