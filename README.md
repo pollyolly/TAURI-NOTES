@@ -30,6 +30,11 @@ Run tauri
 ```vim
 $npm run tauri dev
 ```
+### Troubleshoot
+Module not found: @tauri-apps/api/tauri
+```
+$npm install tauri-apps/api
+```
 ### Reference
 
 [Tauri Rust from Frontend](https://tauri.app/v1/guides/features/command)
