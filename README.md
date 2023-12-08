@@ -38,3 +38,5 @@ $npm install tauri-apps/api
 ### Reference
 
 [Tauri Rust from Frontend](https://tauri.app/v1/guides/features/command)
+
+[Sample Project](https://github.com/HubertK05/banban)
